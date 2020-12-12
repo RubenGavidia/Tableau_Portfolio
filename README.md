@@ -1,4 +1,4 @@
 # Tableau_Portfolio
 
 
-![alt text](https://ibb.co/wChDtWn)
+![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Dashboard%201.png)
