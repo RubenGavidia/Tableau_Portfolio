@@ -1,6 +1,6 @@
-# Tableau_Portfolio (Top Sorting high-low)
+# Tableau Portfolio Sorting Ascending
 
- Central Park Manhattan Trees Summary 100$ [20$ per hour] [Errors in the Dashboard]
+ Central Park Manhattan Trees Summary 100$ [20$ per hour] [Fixing Errors in the Dashboard, Metrics Sheet]
 ![Dashboard 1](https://github.com/RubenGavidia/Scala/blob/master/CB.png?raw=true)
 Applying Level of Details (LOD Calculation) because the dataset 
 in SQL Server had Duplicate Data. 
