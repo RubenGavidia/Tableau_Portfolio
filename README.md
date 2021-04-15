@@ -5,6 +5,11 @@
 Applying Level of Details (LOD Calculation) because the dataset 
 in SQL Server had Duplicate Data. 
 
+![dashboard1](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Dashboard1_Sales_By_State.tb.png)
+
+![dashboard0](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Dashboard_Sales_By_State.tb.png)
+
+
 ![Dashboard 1](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Dashboard%201.png)
 
 Sales 20$ [5$ per hour]
