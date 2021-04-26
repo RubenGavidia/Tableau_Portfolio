@@ -5,6 +5,14 @@
 Applying Level of Details (LOD Calculation) because the dataset 
 in SQL Server had Duplicate Data. 
 
+Medicare Dataset Dashboard ( Claims by State - Drug Cost by Drug ).
+
+https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Medicare%20data%20source.png
+
+https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Medicare%20map%20claims.png
+
+https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Medicare%20dashboard.png
+
 ![dashboard1](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Dashboard1_Sales_By_State.tb.png)
 
 ![dashboard0](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Dashboard_Sales_By_State.tb.png)
