@@ -1,5 +1,6 @@
 # Tableau Portfolio Sorting Ascending
 
+New York City Department of Parks and Recreation [ Government department ]
  Central Park Manhattan Trees Summary 100$ [20$ per hour] [Fixing Errors in the Dashboard, Metrics Sheet]
 ![Dashboard 1](https://github.com/RubenGavidia/Scala/blob/master/CB.png?raw=true)
 Applying Level of Details (LOD Calculation) because the dataset 
