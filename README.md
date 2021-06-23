@@ -1,4 +1,4 @@
-# Tableau Portfolio Sorting Ascending
+# Tableau Portfolio ORDER BY Relevance
 
 New York City Department of Parks and Recreation [ Government department ]
  Central Park Manhattan Trees Summary 100$ [20$ per hour] [Fixing Errors in the Dashboard, Metrics Sheet]
