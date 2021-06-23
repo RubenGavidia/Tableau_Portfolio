@@ -6,6 +6,12 @@ New York City Department of Parks and Recreation [ Government department ]
 Applying Level of Details (LOD Calculation) because the dataset 
 in SQL Server had Duplicate Data. 
 
+More information from https://www.nycgovparks.org/trees/treescount:
+
+![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/TreesCount_Website_www.nycgovparks.org.tb.png?raw=true)
+
+![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/TreesCount_Website_www.nycgovparks.orgPART2.tb.png)
+
 Medicare Dataset Dashboard ( Claims by State - Drug Cost by Drug ).
 
 ![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Medicare%20data%20source.png)
