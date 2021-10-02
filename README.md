@@ -1,5 +1,7 @@
 # Tableau Portfolio ORDER BY Relevance
 
+Boolean Logic Data Prep, Text and Dates, Unions, Joins and Blending, Parameters and Sets, Level of Details, LOD Calculations, Animations, New Visualizations: Funnel Graphs, Gantt Charts, Bump, Donut, Packed Bubbles, Waterfall Chart, London Pathways, , Branches, Multiple Outputs, Outputiing, CSV, Hyper, Preview, Cleaning Text, Unpivotting, ETL, Extract, Transform and Load: Unios, Join, Multi-Joins, If functions, Concatenate, Date Functions, Find and Replace, Desktop Specialist Certification, Desktop Certified Associate, Desktop Certified Professional.
+
 New York City Department of Parks and Recreation [ Government department ]
  Central Park Manhattan Trees Summary 100$ [20$ per hour] [Fixing Errors in the Dashboard, Metrics Sheet]
 ![Dashboard 1](https://github.com/RubenGavidia/Scala/blob/master/CB.png?raw=true)
