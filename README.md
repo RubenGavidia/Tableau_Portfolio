@@ -12,6 +12,14 @@ More information from https://www.nycgovparks.org/trees/treescount:
 
 ![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/TreesCount_Website_www.nycgovparks.org.tb.png?raw=true)
 
+![2021-09-13 16_42_28-](https://user-images.githubusercontent.com/35381213/136371853-f2ebf317-5b5e-42e4-92bc-a4c53e30b36f.png)
+![2021-09-13 16_42_52-](https://user-images.githubusercontent.com/35381213/136371878-a6a16fd2-3985-4826-87a9-48047fe0b2c9.png)
+![2021-09-13 16_43_08-](https://user-images.githubusercontent.com/35381213/136371894-9e5bcdac-313e-469c-b328-54e41bb34492.png)
+![2021-09-13 16_47_22-](https://user-images.githubusercontent.com/35381213/136371906-51ac3fc4-5a02-4626-a33f-d631943f3754.png)
+![2021-09-13 16_41_48-](https://user-images.githubusercontent.com/35381213/136371939-c76f0021-b11b-4239-99bd-9ac870d11f49.png)
+![2021-09-13 16_42_08-](https://user-images.githubusercontent.com/35381213/136371969-0629f3bc-b47a-4762-8a55-156456d3c245.png)
+
+
 ![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/TreesCount_Website_www.nycgovparks.orgPART2.tb.png)
 
 Medicare Dataset Dashboard ( Claims by State - Drug Cost by Drug ).
