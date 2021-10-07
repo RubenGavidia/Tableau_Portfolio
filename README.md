@@ -1,6 +1,8 @@
 # Tableau Portfolio ORDER BY Relevance
 
-Boolean Logic Data Prep, Text and Dates, Unions, Joins and Blending, Parameters and Sets, Level of Details, LOD Calculations, Animations, New Visualizations: Funnel Graphs, Gantt Charts, Bump, Donut, Packed Bubbles, Waterfall Chart, London Pathways, , Branches, Multiple Outputs, Outputiing, CSV, Hyper, Preview, Cleaning Text, Unpivotting, ETL, Extract, Transform and Load: Unios, Join, Multi-Joins, If functions, Concatenate, Date Functions, Find and Replace, Desktop Specialist Certification, Desktop Certified Associate, Desktop Certified Professional.
+Boolean Logic Data Prep, Text and Dates, Unions, Joins and Blending, Parameters and Sets, Level of Details, LOD Calculations, Animations, New Visualizations: Funnel Graphs, Gantt Charts, Bump, Donut, Packed Bubbles, Waterfall Chart, London Pathways![2021-09-13 16_51_35-](https://user-images.githubusercontent.com/35381213/136372444-27c129e4-ce47-4d6a-b9ab-793df5c50ca0.png)
+![2021-09-13 16_52_01-Tableau - Park](https://user-images.githubusercontent.com/35381213/136372484-5cd27bd4-5b1a-4406-ab10-40d6c62f29cd.png)
+, Branches, Multiple Outputs, Outputiing, CSV, Hyper, Preview, Cleaning Text, Unpivotting, ETL, Extract, Transform and Load: Unios, Join, Multi-Joins, If functions, Concatenate, Date Functions, Find and Replace, Desktop Specialist Certification, Desktop Certified Associate, Desktop Certified Professional.
 
 New York City Department of Parks and Recreation [ Government department ]
  Central Park Manhattan Trees Summary 100$ [20$ per hour] [Fixing Errors in the Dashboard, Metrics Sheet]
@@ -18,6 +20,13 @@ More information from https://www.nycgovparks.org/trees/treescount:
 ![2021-09-13 16_47_22-](https://user-images.githubusercontent.com/35381213/136371906-51ac3fc4-5a02-4626-a33f-d631943f3754.png)
 ![2021-09-13 16_41_48-](https://user-images.githubusercontent.com/35381213/136371939-c76f0021-b11b-4239-99bd-9ac870d11f49.png)
 ![2021-09-13 16_42_08-](https://user-images.githubusercontent.com/35381213/136371969-0629f3bc-b47a-4762-8a55-156456d3c245.png)
+![2021-09-13 16_50_24-Tableau - Park](https://user-images.githubusercontent.com/35381213/136372395-144ae15f-28ca-41e8-9ccd-42327c3e64de.png)
+![2021-09-13 16_52_01-Tableau - Park](https://user-images.githubusercontent.com/35381213/136373241-0bac92cd-a255-4a8d-a329-f30d0db6d0f6.png)
+![2021-09-13 16_52_21-](https://user-images.githubusercontent.com/35381213/136373313-4ee22589-75eb-42c2-a29d-2725ab0bdcd9.png)
+![2021-09-13 16_50_24-Tableau - Park](https://user-images.githubusercontent.com/35381213/136373321-2a6a803a-1e9e-43f6-9666-a4930aa2d2aa.png)
+![2021-09-13 16_52_48-](https://user-images.githubusercontent.com/35381213/136373816-eb7fa49a-4e91-4b39-88f6-9be17948a5ac.png)
+![2021-09-13 17_02_56-View Data_  Inventory_Park (TCQA)](https://user-images.githubusercontent.com/35381213/136373870-480e6a0a-18f1-4961-8b1f-82976a3bc27c.png)
+![2021-09-14 08_26_27-Window](https://user-images.githubusercontent.com/35381213/136373896-25706d6a-6249-4130-b609-acc52dc2ba46.png)
 
 
 ![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/TreesCount_Website_www.nycgovparks.orgPART2.tb.png)
