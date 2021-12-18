@@ -1,6 +1,10 @@
 # Tableau Portfolio ORDER BY Relevance
 
-Boolean Logic Data Prep, Text and Dates, Unions, Joins and Blending, Parameters and Sets, Level of Details, LOD Calculations, Animations, New Visualizations: Funnel Graphs, Gantt Charts, Bump, Donut, Packed Bubbles, Waterfall Chart, London Pathways![2021-09-13 16_51_35-](https://user-images.githubusercontent.com/35381213/136372444-27c129e4-ce47-4d6a-b9ab-793df5c50ca0.png)
+Boolean Logic Data Prep, Text and Dates, Unions, Joins and Blending, Parameters and Sets, Level of Details, LOD Calculations, Animations, New Visualizations: Funnel Graphs, Gantt Charts, Bump, Donut, Packed Bubbles, Waterfall Chart, London Pathways!
+
+![image](https://user-images.githubusercontent.com/35381213/146658446-6199ba07-61ec-4ce7-836f-9e9bcd2db2d6.png)
+
+[2021-09-13 16_51_35-](https://user-images.githubusercontent.com/35381213/136372444-27c129e4-ce47-4d6a-b9ab-793df5c50ca0.png)
 ![2021-09-13 16_52_01-Tableau - Park](https://user-images.githubusercontent.com/35381213/136372484-5cd27bd4-5b1a-4406-ab10-40d6c62f29cd.png)
 , Branches, Multiple Outputs, Outputiing, CSV, Hyper, Preview, Cleaning Text, Unpivotting, ETL, Extract, Transform and Load: Unios, Join, Multi-Joins, If functions, Concatenate, Date Functions, Find and Replace, Desktop Specialist Certification, Desktop Certified Associate, Desktop Certified Professional.
 
