@@ -21,7 +21,10 @@ More information from https://www.nycgovparks.org/trees/treescount:
 
 ![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/TreesCount_Website_www.nycgovparks.org.tb.png?raw=true)
 
-Electric Substation:
+Electric Substation Company from Dominican Republic:
+
+![image](https://user-images.githubusercontent.com/35381213/147830336-5d4635d0-dea0-402a-a783-3248fcaf8f7d.png)
+
 
 ![2021-09-13 16_42_28-](https://user-images.githubusercontent.com/35381213/136371853-f2ebf317-5b5e-42e4-92bc-a4c53e30b36f.png)
 ![2021-09-13 16_42_52-](https://user-images.githubusercontent.com/35381213/136371878-a6a16fd2-3985-4826-87a9-48047fe0b2c9.png)
