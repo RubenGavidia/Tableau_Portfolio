@@ -7,6 +7,7 @@ Europa Lakes Microorganism:
 ![image](https://user-images.githubusercontent.com/35381213/146658446-6199ba07-61ec-4ce7-836f-9e9bcd2db2d6.png)
 
 [2021-09-13 16_51_35-](https://user-images.githubusercontent.com/35381213/136372444-27c129e4-ce47-4d6a-b9ab-793df5c50ca0.png)
+
 ![2021-09-13 16_52_01-Tableau - Park](https://user-images.githubusercontent.com/35381213/136372484-5cd27bd4-5b1a-4406-ab10-40d6c62f29cd.png)
 , Branches, Multiple Outputs, Outputiing, CSV, Hyper, Preview, Cleaning Text, Unpivotting, ETL, Extract, Transform and Load: Unios, Join, Multi-Joins, If functions, Concatenate, Date Functions, Find and Replace, Desktop Specialist Certification, Desktop Certified Associate, Desktop Certified Professional.
 
@@ -19,6 +20,8 @@ in SQL Server had Duplicate Data.
 More information from https://www.nycgovparks.org/trees/treescount:
 
 ![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/TreesCount_Website_www.nycgovparks.org.tb.png?raw=true)
+
+Electric Substation:
 
 ![2021-09-13 16_42_28-](https://user-images.githubusercontent.com/35381213/136371853-f2ebf317-5b5e-42e4-92bc-a4c53e30b36f.png)
 ![2021-09-13 16_42_52-](https://user-images.githubusercontent.com/35381213/136371878-a6a16fd2-3985-4826-87a9-48047fe0b2c9.png)
