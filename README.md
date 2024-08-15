@@ -12,7 +12,7 @@ Europa Lakes Microorganism:
 , Branches, Multiple Outputs, Outputiing, CSV, Hyper, Preview, Cleaning Text, Unpivotting, ETL, Extract, Transform and Load: Unios, Join, Multi-Joins, If functions, Concatenate, Date Functions, Find and Replace, Desktop Specialist Certification, Desktop Certified Associate, Desktop Certified Professional.
 
 New York City Department of Parks and Recreation [ Government department ]
- Central Park Manhattan Trees Summary 100$ [20$ per hour] [Fixing Errors in the Dashboard, Metrics Sheet]
+ Central Park Manhattan Trees Summary [20$ per hour] [Fixing Errors in the Dashboard, Metrics Sheet]
 ![Dashboard 1](https://github.com/RubenGavidia/Scala/blob/master/CB.png?raw=true)
 Applying Level of Details (LOD Calculation) because the dataset 
 in SQL Server had Duplicate Data. 
