@@ -56,7 +56,7 @@ Medicare Dataset Dashboard ( Claims by State - Drug Cost by Drug ).
 ![dashboard0](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Dashboard_Sales_By_State.tb.png)
 
 
-![Dashboard 1](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Dashboard%201.png)
+![Dashboard1](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Dashboard%201.png)
 
 
 
